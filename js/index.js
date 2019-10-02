@@ -19,6 +19,3 @@ function displayList(response) {
   });
   usersList.innerHTML = list;
 }
-
-//1. scrii toate functiile din parametri in es6
-//2. punel pe git fara comentarii
